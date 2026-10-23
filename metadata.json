@@ -1,0 +1,6 @@
+{
+  "name": "RefreshRate Lab - 屏幕刷新率与帧率测试分析仪",
+  "description": "专业的前端屏幕刷新率与帧率波动测试仪，提供实时微秒级帧时间曲线、波动监测、多浏览器兼容性分析、自定义时长基准测试及专业性能对比报告。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
